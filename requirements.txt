@@ -1,0 +1,9 @@
+pandas==1.1.4
+Flask ==1.1.1
+numpy ==1.18.1
+transformers==3.5.1
+torch==1.5.1+cu101
+nltk==3.5
+spacy==2.3.2
+emoji==0.6.0
+bs4==0.0.1
