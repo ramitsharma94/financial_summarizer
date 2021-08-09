@@ -7,3 +7,4 @@ nltk==3.5
 spacy==2.3.2
 emoji==0.6.0
 bs4==0.0.1
+scikit-learn==2.13.0
